@@ -2,7 +2,7 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
 
-# Backend
+# Brsia Backend
 
 Backend desarrollado con **NestJS** bajo una arquitectura **Monolito Modular**, implementando principios de **Arquitectura Hexagonal (Ports & Adapters)** y **Screaming Architecture**, con el objetivo de construir una aplicación escalable, mantenible y desacoplada.
 
